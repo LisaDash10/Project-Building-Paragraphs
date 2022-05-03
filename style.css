@@ -1,0 +1,34 @@
+body{
+    background-color: lightgreen;
+}
+
+#div1 {
+    width: 49%;
+    float: none;
+    margin: 20px;    
+}
+
+#div2 {
+    width: 49%;
+    float: none;
+    margin: 20px;
+}
+
+#showPara1 {
+    background:lightsalmon ;
+    border: 4px solid white;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+#showPara2 {
+    background:lightseagreen ;
+    border: 4px solid white;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
